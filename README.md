@@ -2,6 +2,7 @@ A project that aims to be a NFC based hardware time tracker some day.
 
 * Python
 * SQLite
+* Smartcard support
 
 Currently focused for use with the Advanced Card Systems ACR122 NFC Reader / Writer
 
