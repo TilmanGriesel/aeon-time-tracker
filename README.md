@@ -17,7 +17,7 @@ Get the ACR122 driver from http://www.acs.com.hk/en/products/3/acr122u-usb-nfc-r
 * ```sudo apt-get install git```
 * ```git clone https://github.com/TilmanGriesel/aeon-time-tracker.git```
 * ```cp aeon_default.db aeon.db```
-* ```python Playground.py`` 
+* ```python Playground.py```
 
 
 #### Docs
@@ -26,4 +26,3 @@ http://www.acs.com.hk/download-manual/11/PPE-ACR122U-2.01.pdf
 http://www.acs.com.hk/download-manual/418/TSP-ACR122U-3.03.pdf
 
 http://www.acs.com.hk/download-manual/419/API-ACR122U-2.02.pdf
-
